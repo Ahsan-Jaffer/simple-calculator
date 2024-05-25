@@ -1,0 +1,4 @@
+npm init -y   ----> initialize npm in your folder  (packge.json)
+tsc --init   ------>   tsconfig.json
+
+
